@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/MTF2021/NSK_PartsUnlimited/_apis/build/status/nlnKrtz.NSK-ContosoAir?branchName=master)](https://dev.azure.com/MTF2021/NSK_PartsUnlimited/_build/latest?definitionId=42&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
